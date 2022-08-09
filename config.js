@@ -1,5 +1,5 @@
 let titleDiv =
-  "<h1>New York's Offshore Wind Projects Carry Both Good and Bad News for the City</h1>";
+  "<h1>New York's offshore wind projects threaten to destroy habitats</h1>";
 
 let bylineDiv = "<p>By Prinz Magtulis, Richard Abbey and Sarah Grevy Gotfredsen </p>";
 
@@ -41,8 +41,7 @@ let divChapter3 =
  ;
 
  let divChapter4 =
- "<p>That was not the case in Rhode Island, where America's first wind farm was constructed by Ørsted in 2016. At the time, McWilliams said the federal government, through the Bureau of Ocean Energy Management, stepped in to limit areas where windmills can be built in order to avoid disrupting wildlife.</p>" +
- "<p>“They immediately took off the table any shipping lanes…, whale migration quarters and waters less than 20 meters in depth because we knew that that's where most of the waterfowl and waterbirds concentrate,” he explained.</p>";
+ "<p>That was not the case in Rhode Island, where America's first wind farm was constructed by Ørsted in 2016. At the time, McWilliams said the federal government, through the Bureau of Ocean Energy Management, stepped in to limit areas where windmills can be built in order to avoid disrupting wildlife.</p>" 
 
 ;
 
